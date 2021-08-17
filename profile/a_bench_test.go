@@ -6,7 +6,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/niubaoshu/gotiny"
+	"github.com/cybriq/gotiny"
 )
 
 type A struct {
